@@ -1,4 +1,3 @@
-## Jaron Hylton
 
 Software Developer, Student, Teacher, Tutor
 
