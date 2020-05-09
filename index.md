@@ -1,6 +1,3 @@
-
-Software Developer, Student, Teacher, Tutor
-
 ### My Schtick
 
 I like learning, specifically learning things that can in turn help others.
