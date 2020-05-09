@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Jaron Hylton
 
-You can use the [editor on GitHub](https://github.com/jthylton/jthylton.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Software Developer, Student, Teacher, Tutor
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My Schtick
 
-### Markdown
+I like learning, specifically learning things that can in turn help others.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# About Me
+- The 'ron' in Jaron is pronounced 'rin'.
+- My experiences lie in the realms of teaching/tutoring and copmuter science. 
+- I'm currently a rising third-year at Northeastern University, but that may change soon.
+- My main interests right now are figuring out how the networks network (in more detail), how game theory does and doesn't work in ethical arguments, and how to improve my cooking.
 
-```markdown
-Syntax highlighted code block
+# Paid Work
+- I'm actually currently looking for work! Can send resume upon request to jaron.hylton(at)gmail(dot)com.
+- I used to sell cutlery for CUTCO. I was top of my office by the second week. I learned a lot about how to observe and reciprocate the needs and desires of the customer into my own speech on the fly. After another few weeks I felt like I stopped learning and was sure that I didn't enjoy this kind of work, so I left.
+- I write and edit persuasive works. I've mostly written/edited relatively short works aimed at a singular, known audience for pretty low prices, but only sporadically. I do it because it helps me learn more about the topics involved and hone my own rhetorical strategies. 
 
-# Header 1
-## Header 2
-### Header 3
+# Volunteer Work
+- Started designing a website for Mystic Valley Engineering Student Society, but work has stopped 
+- Tutored with the Black Engineering Student Society at Northeastern Spring 2020 (pre-corona). 
+- Design Chair/Communication Chair/Secretary for NUCoSMO, Northeastern's Computer Science Menotring Organization, during Spring 2020.
+- Event Coordinator for NURobotics, Northeastern's Robotics Club, since Fall 2019.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jthylton/jthylton.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Formative High School Stuff
+- Founding co-captain of QHSS Robotics Team (Team Spark).
+- Founding co-captain of QHSS Computer Sciecne Team (Team Cyber).
+- Founding member of QHSS Tri-M Music Honor Society.
+- Assitant coaching for YECA Bears Softball Team.
+<!---[Link](url) and ![Image](src)--->
