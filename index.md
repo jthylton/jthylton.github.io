@@ -1,5 +1,5 @@
 ## About Me
-- The 'ron' in Jaron is pronounced 'rin'.
+- The 'ron' in Jaron is pronounced 'ren'.
 - My experiences lie in the realms of teaching/tutoring and copmuter science. 
 - I'm currently a rising third-year at Northeastern University, but that may change soon.
 - My main interests right now are figuring out how the networks network (in more detail), how game theory does and doesn't work in ethical arguments, and how to improve my cooking.
