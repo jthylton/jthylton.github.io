@@ -1,6 +1,6 @@
 ## About Me
 - The 'ron' in Jaron is pronounced 'ren'.
-- My experiences lie in the realms of teaching/tutoring and copmuter science/security. 
+- My experiences lie in the realms of teaching/tutoring and computer science/security. 
 - I'm currently a rising third-year at Northeastern University.
 - My main goals right now are to obtain security certifications (Security+ is my current goal), flesh out my Slideshow project (basically make a slideshow toy program in every language I'm familiar with and make them look good), and improve my cooking.
 
@@ -18,10 +18,9 @@ I like learning, specifically learning things that can in turn protect others or
 - Experience writing command line C programs and Python scripts.
 - Written a decent amount of Java for classes, lots of unit testing.
 - Learning Docker for PM and DevOps.
-- As I said, I'm trying to make a slideshow-like program for as many languages as I comfortably can. I realized it requires me to handle I/O, file manipulation, data structures, display, and gui, so I kinda need to know a bit of each language to actually make something presentable.  
+- As I said, I'm trying to make a slideshow-like program for as many languages as I comfortably can. I realized it requires me to handle I/O, file manipulation, data structures, display, and gui, so I kinda need to know a bit of each language to actually make something presentable.
 
 ## Volunteering
-- Started designing a website for Mystic Valley Engineering Student Society, but work has since stopped.
 - Tutored with the Black Engineering Student Society at Northeastern Spring 2020 (pre-corona). 
 - Design Chair/Communication Chair/Secretary for NUCoSMO, Northeastern's Computer Science Menotring Organization, during Spring 2020.
 - Event Coordinator for NURobotics, Northeastern's Robotics Club, since Fall 2019.
