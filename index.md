@@ -1,8 +1,8 @@
 ## About Me
 - The 'ron' in Jaron is pronounced 'ren'.
 - My experiences lie in the realms of teaching/tutoring and computer science/security. 
-- I'm currently a rising third-year at Northeastern University.
-- My main goals right now are to obtain security certifications (Security+ is my current goal), flesh out my Slideshow project (basically make a slideshow toy program in every language I'm familiar with and make them look good), and improve my cooking.
+- I'm currently a rising third-year undergrad studying computer science.
+- My main goals right now are to obtain certifications (A+ is my current goal), flesh out my Slideshow project (basically make a slideshow toy program in every language I'm familiar with and make them look good), and improve my cooking.
 
 ## My Theme
 
