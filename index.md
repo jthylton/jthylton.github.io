@@ -15,7 +15,7 @@
 
 ## Work
 - I'm actually looking for work! Tutoring and IT are the kinds of work I'm currently looking at, but I'm certainly open to other, more SWE-like avenues. I can send my resume upon request to jaron(dot)hylton(at)gmail(dot)com. 
-- I used to sell cutlery for CUTCO. I was top of my office by the second week. I learned a lot about how to observe and reciprocate the needs and desires of the customer into my own speech. After another few weeks I felt that I wasn't learning and was sure that I didn't enjoy this kind of work, so I left.
+- I used to sell cutlery for CUTCO. I was top of my office by the second week. I learned a lot about how to observe and reciprocate the needs and desires of the customer into my own speech. After another few weeks I left for school at Northeastern.
 - I write and edit. I've mostly written/edited relatively short, nonfiction works. I do it because it helps me learn more about the topics involved and better my own writing.
 
 ## SWE
