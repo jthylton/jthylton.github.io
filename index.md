@@ -16,18 +16,17 @@
 ## Work
 - I'm actually looking for work! Tutoring and IT are the kinds of work I'm currently looking at, but I'm certainly open to other, more SWE-like avenues. I can send my resume upon request to jaron(dot)hylton(at)gmail(dot)com. 
 - I used to sell cutlery for CUTCO. I was top of my office by the second week. I learned a lot about how to observe and reciprocate the needs and desires of the customer into my own speech. After another few weeks I left for school at Northeastern.
-- I write and edit. I've mostly written/edited relatively short, nonfiction works. I do it because it helps me learn more about the topics involved and better my own writing.
+- I write and edit. I've mostly written/edited research based reports and instructional material. It helps me learn more about the topics involved and better my own writing.
 
 ## SWE
 - Experience writing on linux command line, C programlets, and Python scripts. This is most of what I've written. Also learned some Bash, I just like Python more.
 - Made a couple of JS webapps for a couple of hackathons. Both need heavy refinement before presentation, but were good introductions to Angular and React.
 - Written a decent amount of Java for classes, lots of unit testing, working on integration testing.
-- Learning how to build and manage SQL and NoSQL databases.
-- As I said, I'm trying to make a slideshow-like program for as many languages as I comfortably can. I realized it requires me to handle I/O, file manipulation, data structures, display, and gui, so I kinda need to know a bit of each language to actually make something somewhat presentable.
+- Currently running around between learning JS data visualiztions, studying category theory for functional programming, and trying out Rust.
 
 ## Volunteering
 - Instructor for BESS Empower Yourself Program, August - October 2020.
-- Tutored with the Black Engineering Student Society at Northeastern Spring 2020 (pre-corona). 
+- Tutored with the Black Engineering Student Society at Northeastern Fall 2019 into Spring 2020. 
 - Design Chair/Communication Chair/Secretary for NUCoSMO, Northeastern's Computer Science Menotring Organization, during Spring 2020.
 - Event Coordinator for NURobotics, Northeastern's Robotics Club, Fall 2019 til the end of Spring 2020.
 
